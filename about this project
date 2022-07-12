@@ -1,0 +1,10 @@
+Hi there!, 
+
+AVOIR is a visitor pass management system school project that generates a record of a visitor that can enable to
+keep track of exact times of a visitor sign in and out of in the premises. Visitor information is 
+stored in a computer database, allowing reports of visitor activity to be quickly created and secured.
+After adding a visior the system will print a visitor badge.
+
+Instead using of a logbook, this system will efficiently, effectively welcome a visitor and will create secure facility for all students and 
+employees.This system is made by Java using Eclipse IDE. All operations of the database is done by Maria 
+DB and MYSQL Workbench
