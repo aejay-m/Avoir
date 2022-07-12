@@ -8,8 +8,10 @@ My first programming  school project
 ## What I learned
 * Creating a Flowchart
 * GUI in Java
+* Java Exceptions (Try..Catch)
 * Basic MySQL commands
 * Database connection
+
 
 ## UI DESIGN
 
