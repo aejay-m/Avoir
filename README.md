@@ -7,7 +7,7 @@ It generates a record of a visitor that can enable to keep track of exact times 
 
 
 **System Description**
-This system is made by using Java. All operations of the database is done by Maria DB and MYSQL Workbench
+All operations of the database is done by Maria DB and MYSQL Workbench
 
 ## UI DESIGN
 
