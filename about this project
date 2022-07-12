@@ -6,5 +6,5 @@ stored in a computer database, allowing reports of visitor activity to be quickl
 After adding a visior the system will print a visitor badge.
 
 Instead using of a logbook, this system will efficiently, effectively welcome a visitor and will create secure facility for all students and 
-employees.This system is made by Java using Eclipse IDE. All operations of the database is done by Maria 
+employees.This system is made by using Java. All operations of the database is done by Maria 
 DB and MYSQL Workbench
