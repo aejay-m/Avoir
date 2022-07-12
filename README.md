@@ -1,15 +1,17 @@
-# Hello there!
+# Avoir
 
-About this project : **AVOIR** is a visitor pass management system school project 
+My first programming  school project
 
-It generates a record of a visitor that can enable to keep track of exact times of a visitor sign in and out of in the premises.
+**AVOIR** is a visitor pass management system that generates a record of a visitor that can enable to keep track of exact times of a visitor sign in and out of in the premises.
 
 
-**System Description**
-All operations of the database is done by Maria DB and MYSQL Workbench
+# What I learned
+*Creating a Flowchart
+*GUI in Java
+*Basic MySQL commands
+*Database connection
 
 ## UI DESIGN
-
 
 **ADMIN LOGIN**
 
