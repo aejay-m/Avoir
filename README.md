@@ -5,7 +5,7 @@ My first programming  school project
 **AVOIR** is a visitor pass management system that generates a record of a visitor that can enable to keep track of exact times of a visitor sign in and out of in the premises.
 
 
-##What I learned
+## What I learned
 * Creating a Flowchart
 * GUI in Java
 * Basic MySQL commands
